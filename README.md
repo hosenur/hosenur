@@ -7,4 +7,3 @@
 - 📫 How to reach me: nur08439@gmailcom
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
--->
