@@ -5,7 +5,7 @@
    <a href="https://www.instagram.com/hosenur.dev/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/iNSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
   </a>   
-   <a href="mailto:nur08439@gmail.com" target="_blank">
+   <a href="mailto:mail@hosenur.dev" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://twitter.com/hosenurdev" target="_blank">
@@ -16,7 +16,7 @@
   <br />
   
 
-- ⌨️ Currently working on [My Personal Website](https://hosenur.dev), built with ❤️ and NextJS
+- ⌨️ Currently working on [My Personal Website](https://nur.codes), built with ❤️ and Remix
 - 🌱 I'm currently learning Remix
 - ❤️ I love NextJS,React and ReactNative
 
@@ -27,13 +27,13 @@
   <thead>
   <tr>
   <th>
-    <a href="https://github.com/sereneinserenade">
+    <a href="https://github.com/HOSENUR">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=HOSENUR&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
 <br/>
     </a>
   </th>
   <th>
-    <a href="https://github.com/sereneinserenade">
+    <a href="https://github.com/HOSENUR">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
     </a>
   </th>
