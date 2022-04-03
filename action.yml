@@ -1,0 +1,51 @@
+name: "GitHub README Generator"
+author: "Jainam Desai"
+description: "A lot of customizable features! ✨"
+
+inputs:
+  GH_TOKEN:
+    description: "GitHub access token with Repo scope"
+    required: true
+    default: ${{ github.token }}
+
+  TIMEZONE:
+    description: "Your Local TimeZone"
+    required: true
+
+  SHOW_DAILY_COMMIT:
+    required: false
+    description: "Shows the number of commit graph in the dev metrics."
+    default: "True"
+
+  SHOW_WEEKLY_COMMIT:
+    required: false
+    description: "Shows day of week you are most productive."
+    default: "True"
+
+  SHOW_LINES_OF_CODE:
+    required: false
+    description: "Show the Total Lines Of Code written Badge till date."
+    default: "True"
+
+  SHOW_PROFILE_VIEWS:
+    required: false
+    description: "Shows the Profile Views."
+    default: "True"
+
+  SHOW_LANGUAGE:
+    required: false
+    description: "Shows the most used language."
+    default: "True"
+  
+  SHOW_TOTAL_CONTRIBUTIONS:
+    required: false
+    description: "Shows the total number of contributions."
+    default: "True"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "activity"
+  color: "blue"
