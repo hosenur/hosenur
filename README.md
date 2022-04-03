@@ -29,7 +29,7 @@
   <tr>
   <th>
     <a href="https://github.com/HOSENUR">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HOSENUR&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HOSENUR&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;">
 <br/>
     </a>
   </th>
