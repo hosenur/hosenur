@@ -1,19 +1,20 @@
-# <p align="center"> Hello, Stranger! <img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /> </p>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&height=60&lines=Welcome+to+my+GitHub+Profile!;I+am+Hosenur+Rahaman!;+A+FullStack+Developer!;a+Computer+Science+student;and+always+down+for+biriyani+%F0%9F%8D%9D.)](https://git.io/typing-svg)
- 
-   <a href="https://www.instagram.com/hosenur.dev/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/iNSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>   
-   <a href="mailto:mail@hosenur.dev" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+# <p align="center">Hello, Stranger!<img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /></p>
+<br />
+
+
+<p align="center">
   <a href="https://twitter.com/hosenurdev" target="_blank">
-    <img alt="Twitter " src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/hosenur.dev" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://blog.hosenur.dev" target="_blank">
+    <img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white&color=071A2C" alt="Hashnode"/>
   </a>
 
-  <br />
-  <br />
+</p>
   
 
 - ⌨️ Currently working on [My Personal Website](https://nur.codes), built with ❤️ and Remix
