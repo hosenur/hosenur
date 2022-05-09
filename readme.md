@@ -39,7 +39,7 @@
   </th>
   <th>
     <a href="https://github.com/HOSENUR">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSENUR&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
     </a>
   </th>
 </tr>
