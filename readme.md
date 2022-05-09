@@ -51,6 +51,6 @@
 
 <p align="center">
   <a href="https://github.com/HOSENUR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOSENUR" alt="HOSENUR" />    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOSENUR?theme=dracula" alt="HOSENUR" />    
   </a>
 </p>
