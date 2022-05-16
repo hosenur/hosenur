@@ -43,6 +43,8 @@
 <img src="https://img.icons8.com/clouds/500/000000/react.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/firebase.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/nodejs.png" width="100"/>
+<img src="https://img.icons8.com/fluency/500/000000/laravel.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/django.png" width="100"/>
 </p>
 <br/>
 
