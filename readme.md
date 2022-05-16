@@ -20,10 +20,11 @@
 <br/>
 
 <p align="center">
-<img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/python--v1.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
 </p>
 <br/>
 
