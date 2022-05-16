@@ -1,4 +1,4 @@
-# <p align="center">Hello, Stranger!<img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /></p>
+<!-- # <p align="center">Hello, Stranger!<img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /></p> -->
 
 
 
