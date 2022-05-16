@@ -1,4 +1,5 @@
 # <p align="center">Hello, Stranger!<img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /></p>
+<script src="https://kit.fontawesome.com/2f097e5fd3.js" crossorigin="anonymous"></script>
 
 <br />
 
