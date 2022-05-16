@@ -45,6 +45,7 @@
 <img src="https://img.icons8.com/color/480/000000/nodejs.png" width="100"/>
 <img src="https://img.icons8.com/fluency/500/000000/laravel.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/django.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/redux.png" width="100"/>
 </p>
 <br/>
 
