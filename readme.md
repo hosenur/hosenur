@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://blog.hosenur.dev" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white&color=071A2C" alt="Hashnode"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white&color=071A2C" alt="Hashnode"/>
   </a>
 
 </p>
@@ -22,6 +21,7 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100"><img src="https://media3.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100"><img src="https://media0.giphy.com/media/VgTtXyj5YjVFieCYM2/giphy.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" />
 </p>
 <br/>
 
