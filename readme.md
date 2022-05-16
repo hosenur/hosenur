@@ -15,7 +15,7 @@
 
 </p>
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,11 +23,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
           
 
 <br/>
+# <p align="center">Languages</p>
+
+<p align="center">
+<img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/python--v1.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
+</p>
+<br/>
+# <p align="center">FrameWorks & Tools</p>
 
 <p align="center">
 <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
