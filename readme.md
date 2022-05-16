@@ -3,6 +3,7 @@
 <br />
 
 <p align="center">
+
   <a href="https://twitter.com/hosenurdev" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
@@ -14,6 +15,7 @@
   <a href="https://blog.hosenur.dev" target="_blank">
     <img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white&color=071A2C" alt="Hashnode"/>
   </a>
+
 </p>
 
 <!-- Here are some ideas to get you started:
@@ -27,12 +29,12 @@
 - ⚡ Fun fact: ... -->
 
 <br/>
-# <p align="center"> Languages </p>
 
 <p align="center">
 <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/python--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" width="100"/>
+<img src="https://img.icons8.com/dusk/512/000000/php-logo.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
 </p>
@@ -41,7 +43,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/clouds/500/000000/react.png" width="100"/>
-<img src="https://img.icons8.com/color/480/000000/python--v1.png" width="100"/>
+<img src="https://img.icons8.com/color/480/000000/firebase.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
