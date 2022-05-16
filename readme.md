@@ -40,7 +40,7 @@
 </p>
 <br/>
 <p align="center">
-<img src="https://img.icons8.com/ios-filled/500/000000/circled-n.png"width="100"/>
+<img src="https://img.icons8.com/fluency/500/000000/gatsbyjs.png"/>
 <img src="https://img.icons8.com/clouds/500/000000/react.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/firebase.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" width="100"/>
