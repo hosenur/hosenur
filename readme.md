@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/color/480/000000/golang.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
 <img src="https://img.icons8.com/color/480/000000/python--v1.png" width="100"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" width="100"/>
 </p>
 <br/>
 
