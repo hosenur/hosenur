@@ -1,6 +1,6 @@
 # <p align="center">Hello, Stranger!<img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /></p>
 
-<br />
+
 
 <p align="center">
 
@@ -29,7 +29,6 @@
 - ⚡ Fun fact: ... -->
 
 <br/>
-<hr/>
 
 <p align="center">
 <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" width="100"/>
