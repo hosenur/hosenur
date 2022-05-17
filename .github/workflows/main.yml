@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "3"
+          SHOW_TOTAL_CODE_TIME: "False"
