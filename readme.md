@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,5 +71,5 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/HOSENUR/HOSENUR/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 23:04:10 UTC
+ Last Updated on 18/05/2022 07:39:25 UTC
 <!--END_SECTION:waka-->
