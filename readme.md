@@ -1,6 +1,6 @@
 # Hi There 👋, I am Hosenur
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,5 +71,5 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/HOSENUR/HOSENUR/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 12:12:06 UTC
+ Last Updated on 06/06/2022 18:44:20 UTC
 <!--END_SECTION:waka-->
