@@ -1,11 +1,7 @@
 # Hi there 👋, I am Hosenur
 
 ![](https://komarev.com/ghpvc/?username=HOSENUR&style=for-the-badge)
-<a href="https://app.daily.dev/hosenur">
-<p align="center">
-<img src="https://api.daily.dev/devcards/1d549059c1ad4266bfe20a7235e758a3.png?r=eyh" width="400" alt="Hosenur Rahaman's Dev Card"/>
-</p>
-</a>
+
 
 <p>
 
