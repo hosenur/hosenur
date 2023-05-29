@@ -4,7 +4,7 @@ Hi 👋 I am Hosenur
 Full Stack Web + App Dev | Linux Enthusiast
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [hosenur.dev](http://hosenur.dev)
+* 🖥️  See my portfolio at [hosenur.io](http://hosenur.io)
 * ✉️  You can contact me at [mail@hosenur.dev](mailto:mail@hosenur.dev)
 * 🧠  I'm learning TypeSciptt
 
